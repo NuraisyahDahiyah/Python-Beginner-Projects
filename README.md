@@ -1,4 +1,4 @@
-# Simple-Portals
+# Python Beginner Projects
 A collection of beginner-friendly Python applications demonstrating core programming concepts through practical command-line tools. Includes a interactive to-do list manager and other utility programs more to come...
 ## 📁 Projects
 ### To-Do List Manager
